@@ -55,7 +55,7 @@ Se realizó 11 entrevistas de las cuales 7 fueron a clientes corporativos y 4 a 
 - La mayoría no ha visto la página web actual de Betabel.
 - Extrañan juntarse entre compañeros y cantarse los cumpleaños.
 
-## **User Persona**
+## User Persona**
 Dentro de las entrevistas realizadas identificamos dos tipos de perfiles de clientes: 
 ![image](https://user-images.githubusercontent.com/60928881/86684063-cdc72900-bfc7-11ea-877e-9a968ecb2ab1.png)
 ![image](https://user-images.githubusercontent.com/60928881/86686318-dd477180-bfc9-11ea-8ef0-c984d16a6055.png)
@@ -84,21 +84,27 @@ Antes mis 30 min era solo para ingerir y digerir mi comida, ahora, esos 30 min s
 > "Toda la semana como pastas porque es lo que más rápido se cocina"
 
 
-## **Nuestra Propuesta de solución**
+## Nuestra Propuesta de solución
 
 ![image](https://user-images.githubusercontent.com/60928881/86677778-89388f00-bfc1-11ea-8742-f7bb2e2fb76e.png)
 
 ## Customer Journey Map
 ![image](https://user-images.githubusercontent.com/60928881/86687280-a887ea00-bfca-11ea-92a2-012454687dc3.png)
 
-## **Consideraciones Generales**
+
+### Prototipo 
+![image](https://user-images.githubusercontent.com/60928881/86688110-6ad79100-bfcb-11ea-9386-036fba7cf9a4.png)
+![image](https://user-images.githubusercontent.com/60928881/86688336-9d818980-bfcb-11ea-8532-71133da1b390.png)
+![image](https://user-images.githubusercontent.com/60928881/86688380-a70af180-bfcb-11ea-92c8-3c6f89a45f1b.png)
+
+**Whatsapp Bussines**
+
+![image](https://user-images.githubusercontent.com/60928881/86688412-af632c80-bfcb-11ea-9d7f-d6a153c76f7c.png)
+[https://www.notion.so/Propuesta-de-WhatsApp-Business-f9c4a95122ba486fac8efdaa16e3fa36](url)
+
+**Consideraciones Generales**
 Este proyecto se realizó de forma remota, durante 7 semanas en la cual las integrantes del equipo tomaron los siguientes roles :
-
-![image](https://user-images.githubusercontent.com/60928881/86687571-f1d83980-bfca-11ea-85bb-39af71ba7931.png)
-
-### Prototipo Navegable
-
-[https://www.figma.com/proto/V1WZD4cYYETfIOK99weEt0/Betabel-Catering?node-id=533%3A1888&scaling=scale-down](url)
+![image](https://user-images.githubusercontent.com/60928881/86688779-049f3e00-bfcc-11ea-95d1-2b49b6329669.png)
 
 ![footer](https://user-images.githubusercontent.com/60928881/86678257-006e2300-bfc2-11ea-878d-3785195956d4.png)
 
