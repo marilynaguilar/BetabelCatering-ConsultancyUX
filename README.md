@@ -31,4 +31,10 @@ Utilidad por productos:
 - Los baby cake (pasteles) brindan una utilidad del 15%.
 - El menú desfachatado (asados)brinda una utilidad del 10%.
 
+### Análisis del Entorno
+
+La CANIRAC, organismo regulador del sector de alimentos en México, plantea nuevo protocolo sanitario denominado “Covid-Free”. Que a su vez se complementa con la NOM-251-SAA-1–2009 , normativa que habla sobre los requisitos mínimos de buenas prácticas de higiene que debe tener para la elaboración de alimentos y el “Distintivo H”, que es el reconocimiento que otorga la secretaria de turismo (SECTUR) a los establecimientos que cumplan con los estándares de higiene, confianza y seguridad en el manejo higiénico de los alimentos.
+
+**Benchmark**
+
 
