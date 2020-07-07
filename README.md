@@ -20,6 +20,10 @@ El equipo de Betabel tiene 2 años de experiencia en el mercado, está conformad
 
 ![image](https://user-images.githubusercontent.com/60928881/86671252-14faed00-bfbb-11ea-831d-aa9fde46dd4e.png)
 
-
+**Datos recogidos de las entrevistas con los Stakeholders**
+En el día de la madres, vendieron 19 paquetes ya mayoría de la venta fue a sus propios familiares y conocidos.
+-  17 ventas fueron por grupos de Whatsapp.
+- 01 venta por publicidad en Facebook.
+- 01 venta por alianza con sus proveedores de flores.
 
 
