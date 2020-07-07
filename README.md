@@ -40,10 +40,13 @@ La CANIRAC, organismo regulador del sector de alimentos en México, plantea nuev
 ![empresa4](https://user-images.githubusercontent.com/60928881/86674277-2396d380-bfbe-11ea-9686-025ef057d240.png)
 ![empresa](https://user-images.githubusercontent.com/60928881/86674305-2a254b00-bfbe-11ea-8d3c-e058dadc0f8d.png)
 
-**Entrevistas**
+### **Entrevistas a clientes**
 Se realizó 11 entrevistas de las cuales 7 fueron a clientes corporativos y 4 a clientes sociales de Betabel.
 
-### **Hallazgos**
+### **Hallazgos de entrevista**
+
+![ENCUESTA](https://user-images.githubusercontent.com/60928881/86675346-2e059d00-bfbf-11ea-8150-a1a4df816c07.png)
+
 - Sienten que el trabajo en remoto, les está consumiendo más tiempo.
 - Se sienten muy satisfechos de la calidad de atención y sazón que recibieron de Betabel.
 - Sienten que no pueden disfrutar de su hora de comida como antes
@@ -54,4 +57,5 @@ Se realizó 11 entrevistas de las cuales 7 fueron a clientes corporativos y 4 a 
 - Utilizan mucho sus redes sociales como : Facebook, Instagram, Whatsapp y Twitter.
 - La mayoría no ha visto la página web actual de Betabel.
 - Extrañan juntarse entre compañeros y cantarse los cumpleaños.
+
 
