@@ -10,3 +10,11 @@ Es por ello que muchas empresas han optado por tener que reinventar su modelo de
 **Nuestro Reto**
 
 Fue desarrollar una propuesta digital, basada en el diseño centrado en el usuarix que esté alineada a los objetivos y limitaciones del negocio. Y que sea implementación inmediata o de corto plazo.
+...
+
+**Análisis del Negocio**
+
+El equipo de Betabel tiene 2 años de experiencia en el mercado, está conformado por 5 personas con contrato fijo y otras bajo contratación eventual según la demanda por servicios.
+
+![Equipo betabel](https://user-images.githubusercontent.com/60928881/86671054-e41ab800-bfba-11ea-889c-4e82345fc78b.png) 
+
