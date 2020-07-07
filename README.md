@@ -20,7 +20,7 @@ El equipo de Betabel tiene 2 años de experiencia en el mercado, está conformad
 
 ![image](https://user-images.githubusercontent.com/60928881/86671252-14faed00-bfbb-11ea-831d-aa9fde46dd4e.png)
 
-**Datos recogidos de las entrevistas con los Stakeholders**
+### **Datos recogidos de las entrevistas con los Stakeholders**
 En el día de la madres, vendieron 19 paquetes ya mayoría de la venta fue a sus propios familiares y conocidos.
 -  17 ventas fueron por grupos de Whatsapp.
 - 01 venta por publicidad en Facebook.
@@ -35,7 +35,7 @@ Utilidad por productos:
 
 La CANIRAC, organismo regulador del sector de alimentos en México, plantea nuevo protocolo sanitario denominado “Covid-Free”. Que a su vez se complementa con la NOM-251-SAA-1–2009 , normativa que habla sobre los requisitos mínimos de buenas prácticas de higiene que debe tener para la elaboración de alimentos y el “Distintivo H”, que es el reconocimiento que otorga la secretaria de turismo (SECTUR) a los establecimientos que cumplan con los estándares de higiene, confianza y seguridad en el manejo higiénico de los alimentos.
 
-**Benchmark**
+### **Benchmark**
 ![empresa5](https://user-images.githubusercontent.com/60928881/86674261-1d085c00-bfbe-11ea-93bd-312a9d413ff2.png)
 ![empresa4](https://user-images.githubusercontent.com/60928881/86674277-2396d380-bfbe-11ea-9686-025ef057d240.png)
 ![empresa](https://user-images.githubusercontent.com/60928881/86674305-2a254b00-bfbe-11ea-8d3c-e058dadc0f8d.png)
