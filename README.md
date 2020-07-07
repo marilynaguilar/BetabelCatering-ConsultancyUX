@@ -36,11 +36,22 @@ Utilidad por productos:
 La CANIRAC, organismo regulador del sector de alimentos en México, plantea nuevo protocolo sanitario denominado “Covid-Free”. Que a su vez se complementa con la NOM-251-SAA-1–2009 , normativa que habla sobre los requisitos mínimos de buenas prácticas de higiene que debe tener para la elaboración de alimentos y el “Distintivo H”, que es el reconocimiento que otorga la secretaria de turismo (SECTUR) a los establecimientos que cumplan con los estándares de higiene, confianza y seguridad en el manejo higiénico de los alimentos.
 
 **Benchmark**
-
 ![empresa5](https://user-images.githubusercontent.com/60928881/86674261-1d085c00-bfbe-11ea-93bd-312a9d413ff2.png)
 ![empresa4](https://user-images.githubusercontent.com/60928881/86674277-2396d380-bfbe-11ea-9686-025ef057d240.png)
 ![empresa](https://user-images.githubusercontent.com/60928881/86674305-2a254b00-bfbe-11ea-8d3c-e058dadc0f8d.png)
 
+**Entrevistas**
+Se realizó 11 entrevistas de las cuales 7 fueron a clientes corporativos y 4 a clientes sociales de Betabel.
 
-
+### **Hallazgos**
+- Sienten que el trabajo en remoto, les está consumiendo más tiempo.
+- Se sienten muy satisfechos de la calidad de atención y sazón que recibieron de Betabel.
+- Sienten que no pueden disfrutar de su hora de comida como antes
+- Suelen pedir comida por delivery.
+- Están cansados de cocinar siempre lo mismo.
+- Cansados de tener que comer frente a la computadora.
+- Les gusta mucho las carnes asadas.
+- Utilizan mucho sus redes sociales como : Facebook, Instagram, Whatsapp y Twitter.
+- La mayoría no ha visto la página web actual de Betabel.
+- Extrañan juntarse entre compañeros y cantarse los cumpleaños.
 
