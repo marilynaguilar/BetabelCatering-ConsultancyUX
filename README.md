@@ -57,4 +57,8 @@ Se realizó 11 entrevistas de las cuales 7 fueron a clientes corporativos y 4 a 
 - La mayoría no ha visto la página web actual de Betabel.
 - Extrañan juntarse entre compañeros y cantarse los cumpleaños.
 
+## **User Persona**
+Un user persona es un arquetipo que representa de forma ficticia los diferentes tipos de usuarios que pueden interactuar con el servicio o producto. Y son basadas en estudios de mercado potencial o de clientes existentes.
+![user persona primario](https://user-images.githubusercontent.com/60928881/86676193-fcd99c80-bfbf-11ea-8589-4d75a780d3c0.png)
+![user persona secundario](https://user-images.githubusercontent.com/60928881/86676243-095df500-bfc0-11ea-88a5-109ff8091f4f.png)
 
