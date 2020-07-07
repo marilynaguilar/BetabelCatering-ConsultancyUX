@@ -16,7 +16,7 @@ Fue desarrollar una propuesta digital, basada en el diseño centrado en el usuar
 
 El equipo de Betabel tiene 2 años de experiencia en el mercado, está conformado por 5 personas con contrato fijo y otras bajo contratación eventual según la demanda por servicios.
 
-                                                             **Estructura Jerárquica**
+### Estructura Jerárquica 
 
 ![image](https://user-images.githubusercontent.com/60928881/86671252-14faed00-bfbb-11ea-831d-aa9fde46dd4e.png)
 
