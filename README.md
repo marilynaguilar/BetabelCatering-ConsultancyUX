@@ -45,8 +45,7 @@ Se realizó 11 entrevistas de las cuales 7 fueron a clientes corporativos y 4 a 
 
 ### **Hallazgos de entrevista**
 
-![ENCUESTA](https://user-images.githubusercontent.com/60928881/86675346-2e059d00-bfbf-11ea-8150-a1a4df816c07.png)
-
+![image](https://user-images.githubusercontent.com/60928881/86675717-89378f80-bfbf-11ea-87f0-8407822caf2e.png)
 - Sienten que el trabajo en remoto, les está consumiendo más tiempo.
 - Se sienten muy satisfechos de la calidad de atención y sazón que recibieron de Betabel.
 - Sienten que no pueden disfrutar de su hora de comida como antes
