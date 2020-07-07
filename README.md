@@ -11,7 +11,7 @@ Es por ello que muchas empresas han optado por tener que reinventar su modelo de
 
 Fue desarrollar una propuesta digital, basada en el diseño centrado en el usuarix que esté alineada a los objetivos y limitaciones del negocio. Y que sea implementación inmediata o de corto plazo.
 
-![image](https://user-images.githubusercontent.com/60928881/86672831-a880ed80-bfbc-11ea-9d25-5e3aa0be6be0.png)
+![image](https://user-images.githubusercontent.com/60928881/86679851-93f42380-bfc3-11ea-8913-a7d337306022.png)
 
 ## Análisis del Negocio
 
@@ -32,7 +32,7 @@ Utilidad por productos:
 
 ## Análisis del Entorno
 
-La CANIRAC, organismo regulador del sector de alimentos en México, plantea nuevo protocolo sanitario denominado “Covid-Free”. Que a su vez se complementa con la NOM-251-SAA-1–2009 , normativa que habla sobre los requisitos mínimos de buenas prácticas de higiene que debe tener para la elaboración de alimentos y el “Distintivo H”, que es el reconocimiento que otorga la secretaria de turismo (SECTUR) a los establecimientos que cumplan con los estándares de higiene, confianza y seguridad en el manejo higiénico de los alimentos.
+La CANIRAC, organismo regulador del sector de alimentos en México, plantea nuevo protocolo sanitario denominado “Covid-Free”. Normativa que habla sobre los requisitos mínimos de buenas prácticas de higiene que debe tener para la elaboración de alimentos y el “Distintivo H”, que es el reconocimiento que otorga la secretaria de turismo (SECTUR) a los establecimientos que cumplan con los estándares de higiene, confianza y seguridad en el manejo higiénico de los alimentos.
 
 ### **Benchmark**
 ![empresa5](https://user-images.githubusercontent.com/60928881/86674261-1d085c00-bfbe-11ea-93bd-312a9d413ff2.png)
@@ -57,16 +57,13 @@ Se realizó 11 entrevistas de las cuales 7 fueron a clientes corporativos y 4 a 
 
 ## **User Persona**
 Dentro de las entrevistas realizadas identificamos dos tipos de clientes pontenciales: 
-![user persona primario](https://user-images.githubusercontent.com/60928881/86676193-fcd99c80-bfbf-11ea-8589-4d75a780d3c0.png)
-![user persona secundario](https://user-images.githubusercontent.com/60928881/86676243-095df500-bfc0-11ea-88a5-109ff8091f4f.png)
+![image](https://user-images.githubusercontent.com/60928881/86683920-a8d2b600-bfc7-11ea-8749-5a94c35e9a69.png)
 
 ## How Might We 
 
-¿Cómo podríamos ayudar a nuestros clientes que están inamovibles por la cuarentena a aprovechar al máximo el tiempo de comida que les da su trabajo para que puedan disfrutar sus alimentos sin preocuparse?
-
-¿Como podríamos ayudar a crear momentos memorables sin preocupaciones a la hora de las comida para las familias de Monterrey en estos tiempos de cuarentena?
-
-¿Como podríamos proporcionar oportunidades de compartir con comidas deliciosas, en este tiempo de trabajo en casa a la hora de la comida,  para las personas que trabajan y sus  familias?
+- ¿Cómo podríamos ayudar a nuestros clientes que están inamovibles por la cuarentena a aprovechar al máximo el tiempo de comida que les da su trabajo para que puedan disfrutar sus alimentos sin preocuparse?
+- ¿Cómo podríamos ayudar a crear momentos memorables sin preocupaciones a la hora de las comida para las familias de Monterrey en estos tiempos de cuarentena?
+- ¿Cómo podríamos proporcionar oportunidades de compartir con comidas deliciosas, en este tiempo de trabajo en casa a la hora de la comida,  para las personas que trabajan y sus  familias?
 
 ## Insights
 
