@@ -95,7 +95,6 @@ Antes mis 30 min era solo para ingerir y digerir mi comida, ahora, esos 30 min s
 ### Prototipo 
 ![image](https://user-images.githubusercontent.com/60928881/86688110-6ad79100-bfcb-11ea-9386-036fba7cf9a4.png)
 ![image](https://user-images.githubusercontent.com/60928881/86688336-9d818980-bfcb-11ea-8532-71133da1b390.png)
-![image](https://user-images.githubusercontent.com/60928881/86688380-a70af180-bfcb-11ea-92c8-3c6f89a45f1b.png)
 
 **Whatsapp Bussines**
 
@@ -103,7 +102,9 @@ Antes mis 30 min era solo para ingerir y digerir mi comida, ahora, esos 30 min s
 [https://www.notion.so/Propuesta-de-WhatsApp-Business-f9c4a95122ba486fac8efdaa16e3fa36](url)
 
 **Consideraciones Generales**
+
 Este proyecto se realizó de forma remota, durante 7 semanas en la cual las integrantes del equipo tomaron los siguientes roles :
+
 ![image](https://user-images.githubusercontent.com/60928881/86688779-049f3e00-bfcc-11ea-95d1-2b49b6329669.png)
 
 ![footer](https://user-images.githubusercontent.com/60928881/86678257-006e2300-bfc2-11ea-878d-3785195956d4.png)
