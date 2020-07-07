@@ -57,7 +57,10 @@ Se realizó 11 entrevistas de las cuales 7 fueron a clientes corporativos y 4 a 
 
 ## **User Persona**
 Dentro de las entrevistas realizadas identificamos dos tipos de clientes pontenciales: 
-![image](https://user-images.githubusercontent.com/60928881/86683920-a8d2b600-bfc7-11ea-8749-5a94c35e9a69.png)
+![image](https://user-images.githubusercontent.com/60928881/86684063-cdc72900-bfc7-11ea-877e-9a968ecb2ab1.png)
+![image](https://user-images.githubusercontent.com/60928881/86686318-dd477180-bfc9-11ea-8ef0-c984d16a6055.png)
+
+
 
 ## How Might We 
 
