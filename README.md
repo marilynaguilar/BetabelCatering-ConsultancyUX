@@ -67,6 +67,9 @@ Dentro de las entrevistas realizadas identificamos dos tipos de clientes pontenc
 
 ![image](https://user-images.githubusercontent.com/60928881/86677492-44145d00-bfc1-11ea-89c6-dc3946783ac0.png)
 
+## **Nuestra Propuesta de solución**
+
+![image](https://user-images.githubusercontent.com/60928881/86677778-89388f00-bfc1-11ea-8742-f7bb2e2fb76e.png)
 
 
 
