@@ -14,7 +14,7 @@ Fue desarrollar una propuesta digital, basada en el diseño centrado en el usuar
 ![image](https://user-images.githubusercontent.com/60928881/86672831-a880ed80-bfbc-11ea-9d25-5e3aa0be6be0.png)
 ...
 
-### Análisis del Negocio
+## Análisis del Negocio
 
 El equipo de Betabel tiene 2 años de experiencia en el mercado, está conformado por 5 personas con contrato fijo y otras bajo contratación eventual según la demanda por servicios.
 
@@ -31,7 +31,7 @@ Utilidad por productos:
 - Los baby cake (pasteles) brindan una utilidad del 15%.
 - El menú desfachatado (asados)brinda una utilidad del 10%.
 
-### Análisis del Entorno
+## Análisis del Entorno
 
 La CANIRAC, organismo regulador del sector de alimentos en México, plantea nuevo protocolo sanitario denominado “Covid-Free”. Que a su vez se complementa con la NOM-251-SAA-1–2009 , normativa que habla sobre los requisitos mínimos de buenas prácticas de higiene que debe tener para la elaboración de alimentos y el “Distintivo H”, que es el reconocimiento que otorga la secretaria de turismo (SECTUR) a los establecimientos que cumplan con los estándares de higiene, confianza y seguridad en el manejo higiénico de los alimentos.
 
@@ -40,7 +40,7 @@ La CANIRAC, organismo regulador del sector de alimentos en México, plantea nuev
 ![empresa4](https://user-images.githubusercontent.com/60928881/86674277-2396d380-bfbe-11ea-9686-025ef057d240.png)
 ![empresa](https://user-images.githubusercontent.com/60928881/86674305-2a254b00-bfbe-11ea-8d3c-e058dadc0f8d.png)
 
-### **Entrevistas a clientes**
+## **Entrevistas a clientes**
 Se realizó 11 entrevistas de las cuales 7 fueron a clientes corporativos y 4 a clientes sociales de Betabel.
 
 ### **Hallazgos de entrevista**
