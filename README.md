@@ -56,11 +56,9 @@ Se realizó 11 entrevistas de las cuales 7 fueron a clientes corporativos y 4 a 
 - Extrañan juntarse entre compañeros y cantarse los cumpleaños.
 
 ## **User Persona**
-Dentro de las entrevistas realizadas identificamos dos tipos de clientes pontenciales: 
+Dentro de las entrevistas realizadas identificamos dos tipos de perfiles de clientes: 
 ![image](https://user-images.githubusercontent.com/60928881/86684063-cdc72900-bfc7-11ea-877e-9a968ecb2ab1.png)
 ![image](https://user-images.githubusercontent.com/60928881/86686318-dd477180-bfc9-11ea-8ef0-c984d16a6055.png)
-
-
 
 ## How Might We 
 
@@ -90,6 +88,8 @@ Antes mis 30 min era solo para ingerir y digerir mi comida, ahora, esos 30 min s
 
 ![image](https://user-images.githubusercontent.com/60928881/86677778-89388f00-bfc1-11ea-8742-f7bb2e2fb76e.png)
 
+## **Customer Journey Map**
+![image](https://user-images.githubusercontent.com/60928881/86686318-dd477180-bfc9-11ea-8ef0-c984d16a6055.png)
 
 
 ![footer](https://user-images.githubusercontent.com/60928881/86678257-006e2300-bfc2-11ea-878d-3785195956d4.png)
