@@ -91,13 +91,17 @@ Antes mis 30 min era solo para ingerir y digerir mi comida, ahora, esos 30 min s
 ## Customer Journey Map
 ![image](https://user-images.githubusercontent.com/60928881/86687280-a887ea00-bfca-11ea-92a2-012454687dc3.png)
 
-Consideraciones Generales
+## **Consideraciones Generales**
 Este proyecto se realizó de forma remota, durante 7 semanas en la cual las integrantes del equipo tomaron los siguientes roles :
 
 ![image](https://user-images.githubusercontent.com/60928881/86687571-f1d83980-bfca-11ea-85bb-39af71ba7931.png)
 
+### Prototipo Navegable
+
+[https://www.figma.com/proto/V1WZD4cYYETfIOK99weEt0/Betabel-Catering?node-id=533%3A1888&scaling=scale-down](url)
 
 ![footer](https://user-images.githubusercontent.com/60928881/86678257-006e2300-bfc2-11ea-878d-3785195956d4.png)
+
 
 
 
