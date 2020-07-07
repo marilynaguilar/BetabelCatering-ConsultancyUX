@@ -65,20 +65,21 @@ Dentro de las entrevistas realizadas identificamos dos tipos de clientes pontenc
 ¿Cómo podríamos ayudar a nuestros clientes que están inamovibles por la cuarentena a aprovechar al máximo el tiempo de comida que les da su trabajo para que puedan disfrutar sus alimentos sin preocuparse?
 ## Insights
 
-"Quiero dedicar más tiempo a mi familia que a la cocina"
-Me gusta compartir con mi familia y generar experiencias, momentos mas allá del valor, sin tener que salir de casa
+**_"Quiero dedicar más tiempo a mi familia que a la cocina"_**
+Me gusta compartir con mi familia y generar experiencias, momentos mas allá del valor,  sin tener que salir de casa
 
-"Estoy en familia pero sin estar"
+> "Estoy en familia pero sin estar"
 
-"Que me solucione la vida"
+**_"Que me solucione la vida"_**
 Siempre busco nuevas opciones para la comida, donde me ofrezcan variedad de platillos, que sea rico y saludable para mi familia, me guió de las recomendaciones para no estar buscando por mucho tiempo, pongo mucha atención en el servicio y que el precio se sustente con la calidad
 
-"Busco opciones por medio de recomendaciones"
+> "Busco opciones por medio de recomendaciones"
 
-"Fast Food in the House"
-Antes mis 30 min era solo para ingerir y digerir mi comida, ahora, esos 30 min se tiene que dividir en preparar la comida, comerla y digerirla 
+**_"Fast Food in the House"_**
+Antes mis 30 min era solo para ingerir y digerir mi comida, ahora, esos 30 min se tiene que dividir en preparar la comida, comerla y digerirla 
 
-"Toda la semana como pastas porque es lo que más rápido se cocina"
+> "Toda la semana como pastas porque es lo que más rápido se cocina"
+
 
 ## **Nuestra Propuesta de solución**
 
