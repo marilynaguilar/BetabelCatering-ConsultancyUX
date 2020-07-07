@@ -24,4 +24,9 @@ En el día de la madres, vendieron 19 paquetes ya mayoría de la venta fue a sus
 - 01 venta por publicidad en Facebook.
 - 01 venta por alianza con sus proveedores de flores.
 
+Utilidad por productos:
+- Los platos fuertes brindan una utilidad entre 30 % — 35%.
+- Los baby cake (pasteles) brindan una utilidad del 15%.
+- El menú desfachatado (asados)brinda una utilidad del 10%.
+
 
