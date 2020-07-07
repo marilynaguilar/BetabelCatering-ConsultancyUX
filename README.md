@@ -60,13 +60,13 @@ Dentro de las entrevistas realizadas identificamos dos tipos de perfiles de clie
 ![image](https://user-images.githubusercontent.com/60928881/86684063-cdc72900-bfc7-11ea-877e-9a968ecb2ab1.png)
 ![image](https://user-images.githubusercontent.com/60928881/86686318-dd477180-bfc9-11ea-8ef0-c984d16a6055.png)
 
-## How Might We 
+### How Might We 
 
 - ¿Cómo podríamos ayudar a nuestros clientes que están inamovibles por la cuarentena a aprovechar al máximo el tiempo de comida que les da su trabajo para que puedan disfrutar sus alimentos sin preocuparse?
 - ¿Cómo podríamos ayudar a crear momentos memorables sin preocupaciones a la hora de las comida para las familias de Monterrey en estos tiempos de cuarentena?
 - ¿Cómo podríamos proporcionar oportunidades de compartir con comidas deliciosas, en este tiempo de trabajo en casa a la hora de la comida,  para las personas que trabajan y sus  familias?
 
-## Insights
+### Insights
 
 **_"Quiero dedicar más tiempo a mi familia que a la cocina"_**
 Me gusta compartir con mi familia y generar experiencias, momentos mas allá del valor,  sin tener que salir de casa
@@ -91,6 +91,10 @@ Antes mis 30 min era solo para ingerir y digerir mi comida, ahora, esos 30 min s
 ## Customer Journey Map
 ![image](https://user-images.githubusercontent.com/60928881/86687280-a887ea00-bfca-11ea-92a2-012454687dc3.png)
 
+Consideraciones Generales
+Este proyecto se realizó de forma remota, durante 7 semanas en la cual las integrantes del equipo tomaron los siguientes roles :
+
+![image](https://user-images.githubusercontent.com/60928881/86687571-f1d83980-bfca-11ea-85bb-39af71ba7931.png)
 
 
 ![footer](https://user-images.githubusercontent.com/60928881/86678257-006e2300-bfc2-11ea-878d-3785195956d4.png)
