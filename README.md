@@ -38,7 +38,6 @@ La CANIRAC, organismo regulador del sector de alimentos en México, plantea nuev
 ### **Benchmark**
 ![empresa5](https://user-images.githubusercontent.com/60928881/86674261-1d085c00-bfbe-11ea-93bd-312a9d413ff2.png)
 ![empresa4](https://user-images.githubusercontent.com/60928881/86674277-2396d380-bfbe-11ea-9686-025ef057d240.png)
-![empresa](https://user-images.githubusercontent.com/60928881/86674305-2a254b00-bfbe-11ea-8d3c-e058dadc0f8d.png)
 
 ## **Entrevistas a clientes**
 Se realizó 11 entrevistas de las cuales 7 fueron a clientes corporativos y 4 a clientes sociales de Betabel.
@@ -58,7 +57,7 @@ Se realizó 11 entrevistas de las cuales 7 fueron a clientes corporativos y 4 a 
 - Extrañan juntarse entre compañeros y cantarse los cumpleaños.
 
 ## **User Persona**
-Un user persona es un arquetipo que representa de forma ficticia los diferentes tipos de usuarios que pueden interactuar con el servicio o producto. Y son basadas en estudios de mercado potencial o de clientes existentes.
+Dentro de las entrevistas realizadas identificamos dos tipos de clientes pontenciales: 
 ![user persona primario](https://user-images.githubusercontent.com/60928881/86676193-fcd99c80-bfbf-11ea-8589-4d75a780d3c0.png)
 ![user persona secundario](https://user-images.githubusercontent.com/60928881/86676243-095df500-bfc0-11ea-88a5-109ff8091f4f.png)
 
