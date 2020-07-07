@@ -12,7 +12,9 @@ Es por ello que muchas empresas han optado por tener que reinventar su modelo de
 Fue desarrollar una propuesta digital, basada en el diseño centrado en el usuarix que esté alineada a los objetivos y limitaciones del negocio. Y que sea implementación inmediata o de corto plazo.
 
 ![image](https://user-images.githubusercontent.com/60928881/86672831-a880ed80-bfbc-11ea-9d25-5e3aa0be6be0.png)
-...
+
+> Promesa: Poner en tu mesa alimentos deliciosos con texturas equilibradas y colores vibrantes. Todo servido en tiempo y forma .. al precio justo.
+
 
 ## Análisis del Negocio
 
