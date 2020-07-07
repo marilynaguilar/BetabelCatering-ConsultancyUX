@@ -37,9 +37,9 @@ La CANIRAC, organismo regulador del sector de alimentos en México, plantea nuev
 
 **Benchmark**
 
-![empresa1](https://user-images.githubusercontent.com/60928881/86673887-b5eaa780-bfbd-11ea-8ebc-9d6d85404af6.png)
-![empresa2](https://user-images.githubusercontent.com/60928881/86673936-c3079680-bfbd-11ea-8c22-ace6dd58584a.png)
-
+![empresa5](https://user-images.githubusercontent.com/60928881/86674261-1d085c00-bfbe-11ea-93bd-312a9d413ff2.png)
+![empresa4](https://user-images.githubusercontent.com/60928881/86674277-2396d380-bfbe-11ea-9686-025ef057d240.png)
+![empresa](https://user-images.githubusercontent.com/60928881/86674305-2a254b00-bfbe-11ea-8d3c-e058dadc0f8d.png)
 
 
 
