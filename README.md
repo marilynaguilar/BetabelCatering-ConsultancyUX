@@ -13,9 +13,6 @@ Fue desarrollar una propuesta digital, basada en el diseño centrado en el usuar
 
 ![image](https://user-images.githubusercontent.com/60928881/86672831-a880ed80-bfbc-11ea-9d25-5e3aa0be6be0.png)
 
-> Promesa: Poner en tu mesa alimentos deliciosos con texturas equilibradas y colores vibrantes. Todo servido en tiempo y forma .. al precio justo.
-
-
 ## Análisis del Negocio
 
 El equipo de Betabel tiene 2 años de experiencia en el mercado, está conformado por 5 personas con contrato fijo y otras bajo contratación eventual según la demanda por servicios.
@@ -64,7 +61,13 @@ Dentro de las entrevistas realizadas identificamos dos tipos de clientes pontenc
 ![user persona secundario](https://user-images.githubusercontent.com/60928881/86676243-095df500-bfc0-11ea-88a5-109ff8091f4f.png)
 
 ## How Might We 
+
 ¿Cómo podríamos ayudar a nuestros clientes que están inamovibles por la cuarentena a aprovechar al máximo el tiempo de comida que les da su trabajo para que puedan disfrutar sus alimentos sin preocuparse?
+
+¿Como podríamos ayudar a crear momentos memorables sin preocupaciones a la hora de las comida para las familias de Monterrey en estos tiempos de cuarentena?
+
+¿Como podríamos proporcionar oportunidades de compartir con comidas deliciosas, en este tiempo de trabajo en casa a la hora de la comida,  para las personas que trabajan y sus  familias?
+
 ## Insights
 
 **_"Quiero dedicar más tiempo a mi familia que a la cocina"_**
