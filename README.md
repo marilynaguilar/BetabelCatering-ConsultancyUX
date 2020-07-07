@@ -7,16 +7,16 @@ Es por ello que muchas empresas han optado por tener que reinventar su modelo de
 
 **Betabel** es uno, de muchos emprendimientos de la ciudad de Monterrey que fue fuertemente impactado tras el confinamiento y prohibición para realizarse toda clase de eventos o reuniones en todo México. Antes del confinamiento la cartera de clientes de Betabel, estaba distribuida en 80% eventos corporativos y 20% eventons sociales, y a raíz de la pandemia tuvieron que orientar su estrategia a su segmento social, pasando de las ventas en volumen a ventas unitarias.
 
-**Nuestro Reto**
+## Nuestro Reto
 
 Fue desarrollar una propuesta digital, basada en el diseño centrado en el usuarix que esté alineada a los objetivos y limitaciones del negocio. Y que sea implementación inmediata o de corto plazo.
 ...
 
-**Análisis del Negocio**
+### Análisis del Negocio
 
 El equipo de Betabel tiene 2 años de experiencia en el mercado, está conformado por 5 personas con contrato fijo y otras bajo contratación eventual según la demanda por servicios.
 
-### Estructura Jerárquica 
+**Estructura Jerárquica** 
 
 ![image](https://user-images.githubusercontent.com/60928881/86671252-14faed00-bfbb-11ea-831d-aa9fde46dd4e.png)
 
