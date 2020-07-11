@@ -105,13 +105,12 @@ Antes mis 30 min era solo para ingerir y digerir mi comida, ahora, esos 30 min s
 
 - [Guía de Whatsapp Business - Nuetra propuesta](https://www.notion.so/Propuesta-de-WhatsApp-Business-f9c4a95122ba486fac8efdaa16e3fa36)
 
-- [Presentación final](file:///C:/Users/Estudiante/Downloads/Presentaci%C3%B3n%20final%20-%20Betabel%20Catering.pdf)
+- [Presentación final - Betabel Catering.pdf](https://github.com/marilynaguilar/UX-Consultancy/files/4907624/Presentacion.final.-.Betabel.Catering.pdf)
 
 
 **Consideraciones Generales**
 
-Este proyecto se realizó de forma remota, durante 7 semanas en la cual las integrantes del equipo tomaron los siguientes roles :
-
+Este proyecto se realizó de forma remota, durante 7 semanas donde desarrollo los siguientes roles; UX Design, UX Research y UI Designe.
 
 
 ![footer](https://user-images.githubusercontent.com/60928881/86678257-006e2300-bfc2-11ea-878d-3785195956d4.png)
