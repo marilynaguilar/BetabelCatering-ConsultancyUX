@@ -58,7 +58,7 @@ Se realizó 11 entrevistas de las cuales 7 fueron a clientes corporativos y 4 a 
 ## User Persona
 Dentro de las entrevistas realizadas identificamos dos tipos de perfiles de clientes: 
 ![image](https://user-images.githubusercontent.com/60928881/86684063-cdc72900-bfc7-11ea-877e-9a968ecb2ab1.png)
-![image](https://user-images.githubusercontent.com/60928881/86686318-dd477180-bfc9-11ea-8ef0-c984d16a6055.png)
+![image](https://user-images.githubusercontent.com/60928881/87233925-8a870480-c391-11ea-906c-49ca92ec4f28.png)
 
 ### How Might We 
 
