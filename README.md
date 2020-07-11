@@ -105,6 +105,8 @@ Antes mis 30 min era solo para ingerir y digerir mi comida, ahora, esos 30 min s
 
 - [Guía de Whatsapp Business - Nuetra propuesta](https://www.notion.so/Propuesta-de-WhatsApp-Business-f9c4a95122ba486fac8efdaa16e3fa36)
 
+- [Presentación final](file:///C:/Users/Estudiante/Downloads/Presentaci%C3%B3n%20final%20-%20Betabel%20Catering.pdf)
+
 
 **Consideraciones Generales**
 
