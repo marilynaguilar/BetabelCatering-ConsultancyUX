@@ -100,9 +100,10 @@ Antes mis 30 min era solo para ingerir y digerir mi comida, ahora, esos 30 min s
 
 ![image](https://user-images.githubusercontent.com/60928881/86688412-af632c80-bfcb-11ea-9d7f-d6a153c76f7c.png)
 
-[Prototipo Navegable](https://www.figma.com/file/ShoBDie2K9zJ5W1iCy9dzN/Betabel-Design-Laboratoria-Copy?node-id=234%3A362)
+**Anexos de Proyecto:**
+- [Prototipo Navegable](https://www.figma.com/file/ShoBDie2K9zJ5W1iCy9dzN/Betabel-Design-Laboratoria-Copy?node-id=234%3A362)
 
-[Guía de Whatsapp Business - Nuetra propuesta](https://www.notion.so/Propuesta-de-WhatsApp-Business-f9c4a95122ba486fac8efdaa16e3fa36)
+- [Guía de Whatsapp Business - Nuetra propuesta](https://www.notion.so/Propuesta-de-WhatsApp-Business-f9c4a95122ba486fac8efdaa16e3fa36)
 
 
 **Consideraciones Generales**
