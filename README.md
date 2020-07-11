@@ -100,6 +100,10 @@ Antes mis 30 min era solo para ingerir y digerir mi comida, ahora, esos 30 min s
 
 ![image](https://user-images.githubusercontent.com/60928881/86688412-af632c80-bfcb-11ea-9d7f-d6a153c76f7c.png)
 
+**Consideraciones Generales**
+
+Este proyecto se realizó de forma remota, durante 7 semanas donde desarrolle los siguientes roles; UX Design, UX Research y UI Designer.
+
 **Anexos de Proyecto:**
 - [Prototipo Completo](https://www.figma.com/file/ShoBDie2K9zJ5W1iCy9dzN/Betabel-Design-Laboratoria-Copy?node-id=234%3A362)
 
@@ -110,9 +114,7 @@ Antes mis 30 min era solo para ingerir y digerir mi comida, ahora, esos 30 min s
 - [Presentación final - Betabel Catering.pdf](https://github.com/marilynaguilar/UX-Consultancy/files/4907624/Presentacion.final.-.Betabel.Catering.pdf)
 
 
-**Consideraciones Generales**
 
-Este proyecto se realizó de forma remota, durante 7 semanas donde desarrolle los siguientes roles; UX Design, UX Research y UI Designer.
 
 
 ![footer](https://user-images.githubusercontent.com/60928881/86678257-006e2300-bfc2-11ea-878d-3785195956d4.png)
