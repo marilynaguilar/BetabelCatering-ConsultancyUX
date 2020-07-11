@@ -110,7 +110,7 @@ Antes mis 30 min era solo para ingerir y digerir mi comida, ahora, esos 30 min s
 
 **Consideraciones Generales**
 
-Este proyecto se realizó de forma remota, durante 7 semanas donde desarrollo los siguientes roles; UX Design, UX Research y UI Designe.
+Este proyecto se realizó de forma remota, durante 7 semanas donde desarrolle los siguientes roles; UX Design, UX Research y UI Designer.
 
 
 ![footer](https://user-images.githubusercontent.com/60928881/86678257-006e2300-bfc2-11ea-878d-3785195956d4.png)
