@@ -20,13 +20,7 @@ Antes del confinamiento la cartera de clientes de Betabel, estaba distribuida en
 ### **Datos de última venta**
 En el día de la madres, vendieron 19 paquetes ya mayoría de la venta fue a sus propios familiares y conocidos.
 - 17 ventas fueron por grupos de Whatsapp.
-- 01 venta por publicidad en Facebook.
-- 01 venta por alianza con sus proveedores de flores.
-
-Utilidad por productos:
-- Los platos fuertes brindan una utilidad entre 30 % — 35%.
-- Los baby cake (pasteles) brindan una utilidad del 15%.
-- El menú desfachatado (asados)brinda una utilidad del 10%.
+- 01 venta por publicidad en Facebook y 01 venta por alianza con sus proveedores de flores.
 
 ## Análisis del Entorno
 
