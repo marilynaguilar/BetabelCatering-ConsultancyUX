@@ -20,7 +20,8 @@ Antes del confinamiento la cartera de clientes de Betabel, estaba distribuida en
 ### **Datos de última venta**
 En el día de la madres, vendieron 19 paquetes ya mayoría de la venta fue a sus propios familiares y conocidos.
 - 17 ventas fueron por grupos de Whatsapp.
-- 01 venta por publicidad en Facebook y 01 venta por alianza con sus proveedores de flores.
+- 01 venta por publicidad en Facebook.
+- 01 venta por alianza con proveedor de flores.
 
 ## Análisis del Entorno
 
@@ -31,7 +32,9 @@ La CANIRAC, organismo regulador del sector de alimentos en México, plantea nuev
 ![empresa4](https://user-images.githubusercontent.com/60928881/86674277-2396d380-bfbe-11ea-9686-025ef057d240.png)
 
 ## **Entrevistas a clientes**
-Se realizó 11 entrevistas de las cuales 7 fueron a clientes corporativos y 4 a clientes sociales de Betabel.
+Se realizó 11 entrevistas:
+- 7 a clientes corporativos 
+- 4 a clientes sociales de Betabel.
 
 ### **Hallazgos de entrevista**
 
