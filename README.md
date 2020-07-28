@@ -86,9 +86,6 @@ Antes mis 30 min era solo para ingerir y digerir mi comida, ahora, esos 30 min s
 
 ![image](https://user-images.githubusercontent.com/60928881/86677778-89388f00-bfc1-11ea-8742-f7bb2e2fb76e.png)
 
-## Customer Journey Map
-![image](https://user-images.githubusercontent.com/60928881/86687280-a887ea00-bfca-11ea-92a2-012454687dc3.png)
-
 
 ### Prototipo 
 ![image](https://user-images.githubusercontent.com/60928881/86688110-6ad79100-bfcb-11ea-9386-036fba7cf9a4.png)
