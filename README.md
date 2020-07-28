@@ -11,7 +11,7 @@ El Covid-19 originó que el comportamiento, el estilo de vida y prioridades de c
 
 Fue desarrollar una propuesta digital, basada en el diseño centrado en el usuarix que esté alineada a los objetivos y limitaciones del negocio. Y que sea implementación inmediata o de corto plazo.
 
-![image](https://user-images.githubusercontent.com/60928881/88730701-56834180-d0fc-11ea-8021-091eaa58d22b.png)
+![image](https://user-images.githubusercontent.com/60928881/88730731-7286e300-d0fc-11ea-846e-c3d537246d6a.png)
 
 ## Análisis del Negocio
 
