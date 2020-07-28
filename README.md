@@ -15,11 +15,11 @@ Fue desarrollar una propuesta digital, basada en el diseño centrado en el usuar
 
 ## Análisis del Negocio
 
-El equipo de Betabel tiene 2 años de experiencia en el mercado, está conformado por 5 personas con contrato fijo y otras bajo contratación eventual según la demanda por servicios. Antes del confinamiento la cartera de clientes de Betabel, estaba distribuida en 80% eventos corporativos y 20% eventons sociales, y a raíz de la pandemia tuvieron que orientar su estrategia a su segmento social, pasando de las ventas en volumen a ventas unitarias.
+Antes del confinamiento la cartera de clientes de Betabel, estaba distribuida en 80% eventos corporativos y 20% eventons sociales, y a raíz de la pandemia tuvieron que orientar su estrategia a su segmento social, pasando de las ventas en volumen a ventas unitarias.
 
 ### **Datos recogidos de las entrevistas con los Stakeholders**
 En el día de la madres, vendieron 19 paquetes ya mayoría de la venta fue a sus propios familiares y conocidos.
--  17 ventas fueron por grupos de Whatsapp.
+- 17 ventas fueron por grupos de Whatsapp.
 - 01 venta por publicidad en Facebook.
 - 01 venta por alianza con sus proveedores de flores.
 
