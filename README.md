@@ -37,8 +37,7 @@ Se realizó 11 entrevistas:
 - 4 a clientes sociales de Betabel.
 
 ### **Hallazgos de entrevista**
-
-![image](https://user-images.githubusercontent.com/60928881/88721261-ca691e00-d0eb-11ea-8a8e-c3ba4207a426.png)
+![image](https://user-images.githubusercontent.com/60928881/88721445-14ea9a80-d0ec-11ea-87d2-fd53124a4a1c.png)
 
 ## User Persona
 Dentro de las entrevistas realizadas identificamos dos tipos de perfiles de clientes: 
