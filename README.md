@@ -38,16 +38,7 @@ Se realizó 11 entrevistas:
 
 ### **Hallazgos de entrevista**
 
-- Sienten que el trabajo en remoto, les está consumiendo más tiempo.
-- Se sienten muy satisfechos de la calidad de atención y sazón que recibieron de Betabel.
-- Sienten que no pueden disfrutar de su hora de comida como antes
-- Suelen pedir comida por delivery.
-- Están cansados de cocinar siempre lo mismo.
-- Cansados de tener que comer frente a la computadora.
-- Les gusta mucho las carnes asadas.
-- Utilizan mucho sus redes sociales como : Facebook, Instagram, Whatsapp y Twitter.
-- La mayoría no ha visto la página web actual de Betabel.
-- Extrañan juntarse entre compañeros y cantarse los cumpleaños.
+![image](https://user-images.githubusercontent.com/60928881/88721261-ca691e00-d0eb-11ea-8a8e-c3ba4207a426.png)
 
 ## User Persona
 Dentro de las entrevistas realizadas identificamos dos tipos de perfiles de clientes: 
