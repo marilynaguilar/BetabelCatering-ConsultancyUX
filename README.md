@@ -2,13 +2,13 @@
 ![1_J3JOosf6K5LqspqSHDDNUA](https://user-images.githubusercontent.com/60928881/86669772-8b96eb00-bfb9-11ea-82f5-7d2ac50eb304.png)
 
 
-El Covid-19 originó que el comportamiento, el estilo de vida y prioridades de compra de las personas cambiaran, aumentado a su vez la cantidad de horas que las personas ahora pasan en el Internet; este comportamiento benefició a los negocios que ya tenían una mayor posición en la web.Es por ello que muchas empresas han optado por tener que reinventar su modelo de negocio.
+El Covid-19 originó que el comportamiento, el estilo de vida y prioridades de compra de las personas cambiaran, es por ello que muchas empresas han optado por tener que reinventar su modelo de negocio.
 
 **Betabel** es uno, de muchos emprendimientos de la ciudad de Monterrey que fue fuertemente impactado tras el confinamiento y prohibición para realizarse toda clase de eventos o reuniones en todo México. Antes del confinamiento la cartera de clientes de Betabel, estaba distribuida en 80% eventos corporativos y 20% eventons sociales, y a raíz de la pandemia tuvieron que orientar su estrategia a su segmento social, pasando de las ventas en volumen a ventas unitarias.
 
 ## Nuestro Reto
-
 Este proyecto se realizó de forma remota, durante 7 semanas donde desarrolle los siguientes roles; UX Design, UX Research y UI Designer.
+
 Fue desarrollar una propuesta digital, basada en el diseño centrado en el usuarix que esté alineada a los objetivos y limitaciones del negocio. Y que sea implementación inmediata o de corto plazo.
 
 ![image](https://user-images.githubusercontent.com/60928881/86679851-93f42380-bfc3-11ea-8913-a7d337306022.png)
