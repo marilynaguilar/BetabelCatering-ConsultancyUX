@@ -2,11 +2,10 @@
 ![1_J3JOosf6K5LqspqSHDDNUA](https://user-images.githubusercontent.com/60928881/86669772-8b96eb00-bfb9-11ea-82f5-7d2ac50eb304.png)
 
 
-El Covid-19 originó que el comportamiento, el estilo de vida y prioridades de compra de las personas cambiaran, es por ello que muchas empresas han optado por tener que reinventar su modelo de negocio.
+El Covid-19 originó que el comportamiento, el estilo de vida y prioridades de compra de las personas cambiaran, es por ello que muchas empresas han optado por tener que reinventar su modelo de negocio. Se realizo una consultoria UX de forma remota, durante 7 semanas donde desarrolle los siguientes roles; UX Design, UX Research y UI Designer.
 
-**Betabel** es uno, de muchos emprendimientos de la ciudad de Monterrey que fue fuertemente impactado tras el confinamiento y prohibición para realizarse toda clase de eventos o reuniones en todo México. Antes del confinamiento la cartera de clientes de Betabel, estaba distribuida en 80% eventos corporativos y 20% eventons sociales, y a raíz de la pandemia tuvieron que orientar su estrategia a su segmento social, pasando de las ventas en volumen a ventas unitarias.
+**Betabel** es uno, de muchos emprendimientos de la ciudad de Monterrey que fue fuertemente impactado tras el confinamiento y prohibición para realizarse toda clase de eventos o reuniones en todo México. 
 
-Este proyecto se realizó de forma remota, durante 7 semanas donde desarrolle los siguientes roles; UX Design, UX Research y UI Designer.
 
 ## Nuestro Reto
 
@@ -16,7 +15,7 @@ Fue desarrollar una propuesta digital, basada en el diseño centrado en el usuar
 
 ## Análisis del Negocio
 
-El equipo de Betabel tiene 2 años de experiencia en el mercado, está conformado por 5 personas con contrato fijo y otras bajo contratación eventual según la demanda por servicios.
+El equipo de Betabel tiene 2 años de experiencia en el mercado, está conformado por 5 personas con contrato fijo y otras bajo contratación eventual según la demanda por servicios. Antes del confinamiento la cartera de clientes de Betabel, estaba distribuida en 80% eventos corporativos y 20% eventons sociales, y a raíz de la pandemia tuvieron que orientar su estrategia a su segmento social, pasando de las ventas en volumen a ventas unitarias.
 
 ### **Datos recogidos de las entrevistas con los Stakeholders**
 En el día de la madres, vendieron 19 paquetes ya mayoría de la venta fue a sus propios familiares y conocidos.
