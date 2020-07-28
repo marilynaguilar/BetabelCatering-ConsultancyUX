@@ -6,8 +6,9 @@ El Covid-19 originó que el comportamiento, el estilo de vida y prioridades de c
 
 **Betabel** es uno, de muchos emprendimientos de la ciudad de Monterrey que fue fuertemente impactado tras el confinamiento y prohibición para realizarse toda clase de eventos o reuniones en todo México. Antes del confinamiento la cartera de clientes de Betabel, estaba distribuida en 80% eventos corporativos y 20% eventons sociales, y a raíz de la pandemia tuvieron que orientar su estrategia a su segmento social, pasando de las ventas en volumen a ventas unitarias.
 
-## Nuestro Reto
 Este proyecto se realizó de forma remota, durante 7 semanas donde desarrolle los siguientes roles; UX Design, UX Research y UI Designer.
+
+## Nuestro Reto
 
 Fue desarrollar una propuesta digital, basada en el diseño centrado en el usuarix que esté alineada a los objetivos y limitaciones del negocio. Y que sea implementación inmediata o de corto plazo.
 
