@@ -32,8 +32,8 @@ La CANIRAC, organismo regulador del sector de alimentos en México, plantea nuev
 ![empresa4](https://user-images.githubusercontent.com/60928881/86674277-2396d380-bfbe-11ea-9686-025ef057d240.png)
 
 ## **Entrevistas a clientes**
+![image](https://user-images.githubusercontent.com/60928881/88728784-16ba5b00-d0f8-11ea-970b-37be10bb3140.png)
 
-![image](https://user-images.githubusercontent.com/60928881/88728310-05bd1a00-d0f7-11ea-84d2-f81924bb5d90.png)
 
 ## User Persona
 Dentro de las entrevistas realizadas identificamos dos tipos de perfiles de clientes: 
