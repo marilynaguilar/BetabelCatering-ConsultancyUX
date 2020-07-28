@@ -32,12 +32,7 @@ La CANIRAC, organismo regulador del sector de alimentos en México, plantea nuev
 ![empresa4](https://user-images.githubusercontent.com/60928881/86674277-2396d380-bfbe-11ea-9686-025ef057d240.png)
 
 ## **Entrevistas a clientes**
-Se realizó 11 entrevistas:
-- 7 a clientes corporativos 
-- 4 a clientes sociales de Betabel.
-
-### **Hallazgos de entrevista**
-![image](https://user-images.githubusercontent.com/60928881/88722508-f638d380-d0ec-11ea-9636-dde2bd645e11.png)
+![image](https://user-images.githubusercontent.com/60928881/88722764-6ba4a400-d0ed-11ea-880d-7d4fb431a9b6.png)
 
 ## User Persona
 Dentro de las entrevistas realizadas identificamos dos tipos de perfiles de clientes: 
