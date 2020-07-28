@@ -18,10 +18,7 @@ Fue desarrollar una propuesta digital, basada en el diseño centrado en el usuar
 Antes del confinamiento la cartera de clientes de Betabel, estaba distribuida en 80% eventos corporativos y 20% eventons sociales, y a raíz de la pandemia tuvieron que orientar su estrategia a su segmento social, pasando de las ventas en volumen a ventas unitarias.
 
 ### **Datos de última venta**
-En el día de la madres, vendieron 19 paquetes ya mayoría de la venta fue a sus propios familiares y conocidos.
-- 17 ventas fueron por grupos de Whatsapp.
-- 01 venta por publicidad en Facebook.
-- 01 venta por alianza con proveedor de flores.
+![image](https://user-images.githubusercontent.com/60928881/88729641-f8555f00-d0f9-11ea-88a5-24f459f0e258.png)
 
 ## Análisis del Entorno
 
