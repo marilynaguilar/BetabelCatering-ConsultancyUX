@@ -59,7 +59,7 @@ Antes mis 30 min era solo para ingerir y digerir mi comida, ahora, esos 30 min s
 > "Toda la semana como pastas porque es lo que más rápido se cocina"
 
 
-## Nuestra Propuesta de solución
+## Propuesta de solución
 
 ![image](https://user-images.githubusercontent.com/60928881/86677778-89388f00-bfc1-11ea-8742-f7bb2e2fb76e.png)
 
