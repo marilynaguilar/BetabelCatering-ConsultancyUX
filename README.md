@@ -17,7 +17,7 @@ Fue desarrollar una propuesta digital, basada en el diseño centrado en el usuar
 
 Antes del confinamiento la cartera de clientes de Betabel, estaba distribuida en 80% eventos corporativos y 20% eventons sociales, y a raíz de la pandemia tuvieron que orientar su estrategia a su segmento social, pasando de las ventas en volumen a ventas unitarias.
 
-![image](https://user-images.githubusercontent.com/60928881/88742009-a535d900-d106-11ea-9c56-317be7a8f6f2.png)
+![image](https://user-images.githubusercontent.com/60928881/88742670-63a62d80-d108-11ea-8e9c-12492297d130.png)
 
 ## Análisis del Entorno
 
