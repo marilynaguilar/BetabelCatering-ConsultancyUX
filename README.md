@@ -1,5 +1,5 @@
 # Consultoría UX en época de pandemia
-![image](https://user-images.githubusercontent.com/60928881/88741485-63586300-d105-11ea-8935-2804b4163341.png)
+![image](https://user-images.githubusercontent.com/60928881/88742369-a4ea0d80-d107-11ea-8797-8e6208439e2a.png)
 
 
 El Covid-19 originó que el comportamiento, el estilo de vida y prioridades de compra de las personas cambiaran, es por ello que muchas empresas han optado por tener que reinventar su modelo de negocio. 
