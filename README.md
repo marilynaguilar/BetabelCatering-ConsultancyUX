@@ -2,11 +2,11 @@
 
 El Covid-19 originó que el comportamiento, el estilo de vida y prioridades de compra de las personas cambiaran, es por ello que muchas empresas han optado por tener que reinventar su modelo de negocio. 
 
-**Betabel** es un emprendimiento Mexicano de servicios de catering en monterrey debido al confinamiento y prohibición de eventos o reuniones se negocio se vio fuertemente impactado. En busca de pronto solución decidieron recibir una consultoria UX de forma remota, durante 7 semanas donde colabore como UX Design, UX Research y UI Designer.
+**Betabel** es un emprendimiento Mexicano de servicios de catering en monterrey, que debido al confinamiento y prohibición de eventos o reuniones, su negocio se vio fuertemente impactado. En busca de pronto solución decidieron recibir una consultoria UX de forma remota, durante 7 semanas donde colabore como UX Design, UX Research y UI Designer.
 
 ## Nuestro Reto
 
-Fue desarrollar una propuesta digital, basada en el diseño centrado en el usuarix que esté alineada a los objetivos y limitaciones del negocio. 
+Fue desarrollar una propuesta digital basada en el diseño centrado en el usuarix el cual esta alineada a los objetivos y limitaciones del negocio. 
 
 ![image](https://user-images.githubusercontent.com/60928881/88743820-458dfc80-d10b-11ea-9fb9-68c3f941612f.png)
 
