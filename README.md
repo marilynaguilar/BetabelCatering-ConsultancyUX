@@ -13,8 +13,10 @@ Fue desarrollar una propuesta digital basada en el diseño centrado en el usuari
 ## Análisis del Negocio
 
 Antes del confinamiento la cartera de clientes de Betabel, estaba distribuida en 80% eventos corporativos y 20% eventons sociales, y a raíz de la pandemia tuvieron que orientar su estrategia a su segmento social, pasando de las ventas en volumen a ventas unitarias.
-- La última ventas se realizó el día de la madres y vendieron 19 paquetes.
-![image](https://user-images.githubusercontent.com/60928881/88742795-ba136c00-d108-11ea-985a-55b1c3e93453.png)
+
+La última ventas se realizó el día de la madres y vendieron 19 paquetes.
+![image](https://user-images.githubusercontent.com/60928881/88746577-7b82af00-d112-11ea-8dab-5b984b2e3860.png)
+
 
 ## Análisis del Entorno
 
