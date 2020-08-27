@@ -65,7 +65,6 @@ Antes mis 30 min era solo para ingerir y digerir mi comida, ahora, esos 30 min s
 
 ### Prototipo 
 ![image](https://user-images.githubusercontent.com/60928881/86688110-6ad79100-bfcb-11ea-9386-036fba7cf9a4.png)
-![image](https://user-images.githubusercontent.com/60928881/86688336-9d818980-bfcb-11ea-8532-71133da1b390.png)
 
 **Whatsapp Bussines**
 
