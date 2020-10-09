@@ -6,7 +6,7 @@ El Covid-19 originó que el comportamiento, el estilo de vida y prioridades de c
 
 ## Nuestro Reto
 
-Fue desarrollar una propuesta digital basada en el diseño centrado en el usuarix el cual esta alineada a los objetivos y limitaciones del negocio. 
+Fue desarrollar una propuesta digital basada en el diseño centrado en el usuarix el cual esta alineado a los objetivos y limitaciones del negocio. 
 
 ![image](https://user-images.githubusercontent.com/60928881/88746435-234bad00-d112-11ea-96da-92a8ab9ab261.png)
 
